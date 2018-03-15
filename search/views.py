@@ -8,6 +8,7 @@ import re
 from search.templatetags.calculator import getResult
 
 COSMOS_SEP = '_'
+a=''
 
 # Create your views here
 
